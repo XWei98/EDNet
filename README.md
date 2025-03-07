@@ -1,1 +1,1 @@
-# EDNet
+# SGCNet
